@@ -16,11 +16,7 @@ Our findings demonstrate that image sharpening achieves the highest accuracy (89
 
 ## Repository Contents
 
-- `model/`: Contains our ResNet18-based model implementation
-- `preprocessing/`: Image transformation implementations
-- `evaluation/`: Metrics calculation and result analysis
-- `notebooks/`: Jupyter notebooks for data exploration and visualization
-- `results/`: Output figures and performance metrics tables
+- **Pneumonia_Detection.ipynb**: A Jupyter Notebook exploring pneumonia detection through various image transformation techniques applied to medical imaging data.
 
 ## Key Results
 
@@ -33,6 +29,5 @@ Our findings demonstrate that image sharpening achieves the highest accuracy (89
 
 ## Dataset
 
-This study utilized the Chest X-Ray Images (Pneumonia) dataset from Kaggle, comprising 5,863 X-ray images categorized into pneumonia and normal cases.
-
+This study utilized the Chest X-Ray Images (Pneumonia) dataset from Kaggle, comprising 5,863 X-ray images categorized into pneumonia and normal cases. The dataset can be accessed [here](https://www.kaggle.com/datasets/paultimothymooney/chest-xray-pneumonia/data).
 
