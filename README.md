@@ -12,7 +12,7 @@ We systematically evaluated four different image transformation approaches:
 
 Our findings demonstrate that image sharpening achieves the highest accuracy (89.6%) and F1 score (91.7%), significantly outperforming the baseline approach.
 
-![Transformation Comparison](path/to/transform_comparison.png)
+![Transformation Comparison](./transform_comparison.jpeg)
 
 ## Repository Contents
 
